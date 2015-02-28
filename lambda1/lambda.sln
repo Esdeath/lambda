@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lambda", "lambda\lambda.vcxproj", "{2E148B4C-E53E-4F93-A050-66D4B61F3D31}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "可变参数", "可变参数\可变参数.vcxproj", "{8C9F1DFF-3372-4753-88FC-821E933153EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E148B4C-E53E-4F93-A050-66D4B61F3D31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E148B4C-E53E-4F93-A050-66D4B61F3D31}.Debug|Win32.Build.0 = Debug|Win32
+		{2E148B4C-E53E-4F93-A050-66D4B61F3D31}.Release|Win32.ActiveCfg = Release|Win32
+		{2E148B4C-E53E-4F93-A050-66D4B61F3D31}.Release|Win32.Build.0 = Release|Win32
+		{8C9F1DFF-3372-4753-88FC-821E933153EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C9F1DFF-3372-4753-88FC-821E933153EC}.Debug|Win32.Build.0 = Debug|Win32
+		{8C9F1DFF-3372-4753-88FC-821E933153EC}.Release|Win32.ActiveCfg = Release|Win32
+		{8C9F1DFF-3372-4753-88FC-821E933153EC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
